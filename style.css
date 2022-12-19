@@ -42,7 +42,7 @@ body {
     padding: 20px;
     border-radius: 8px;
     box-shadow: 16px 5px 32px 9px rgba(0,0,0,0.1);
-    /* margin-bottom: 12px; */
+    margin-bottom: 12px;
 }
 
 #c1 {
@@ -122,8 +122,8 @@ body {
         height: 46%;
         
     }
-    .card {
-        margin-bottom: 0px ;
+    .board {
+        margin-bottom: 0px !important;
     }
     .thin {
         flex-basis: 33%;
